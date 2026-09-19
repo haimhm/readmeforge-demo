@@ -6,3 +6,4 @@ Demo repo showing ReadmeForge auto-syncing the README.
 
 - Fast startup
 - JSON output
+- Versioning support (v1.0)
