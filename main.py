@@ -6,6 +6,11 @@ def farewell(name):
     return f"Goodbye, {name}!"
 
 
+def version():
+    return "1.0"
+
+
 if __name__ == "__main__":
     print(greet("world"))
     print(farewell("world"))
+    print(version())
